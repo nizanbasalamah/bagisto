@@ -23,7 +23,7 @@
 <?php endif; ?> 
 </v-reporting-sales-average-order-value>
 
-<?php if (! $__env->hasRenderedOnce('7c966eb6-baa1-4395-b81f-e5f2e7985309')): $__env->markAsRenderedOnce('7c966eb6-baa1-4395-b81f-e5f2e7985309');
+<?php if (! $__env->hasRenderedOnce('a85b62ee-65d2-4923-927d-cd4f036e027e')): $__env->markAsRenderedOnce('a85b62ee-65d2-4923-927d-cd4f036e027e');
 $__env->startPush('scripts'); ?>
     <script
         type="text/x-template"

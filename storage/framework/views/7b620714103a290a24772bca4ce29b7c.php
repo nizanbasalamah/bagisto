@@ -23,7 +23,7 @@
 <?php endif; ?>
 </v-reporting-sales-purchase-funnel>
 
-<?php if (! $__env->hasRenderedOnce('22c27e49-98d5-487d-9a79-b8f73c44c212')): $__env->markAsRenderedOnce('22c27e49-98d5-487d-9a79-b8f73c44c212');
+<?php if (! $__env->hasRenderedOnce('45214a0b-7287-4528-9258-af7bb36ef351')): $__env->markAsRenderedOnce('45214a0b-7287-4528-9258-af7bb36ef351');
 $__env->startPush('scripts'); ?>
     <script
         type="text/x-template"

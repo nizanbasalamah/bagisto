@@ -22,7 +22,7 @@
 <?php endif; ?>
 </v-reporting-sales-total-refunds>
 
-<?php if (! $__env->hasRenderedOnce('0fa83d4b-2946-4225-a4e8-efac26b6c9d9')): $__env->markAsRenderedOnce('0fa83d4b-2946-4225-a4e8-efac26b6c9d9');
+<?php if (! $__env->hasRenderedOnce('cc944207-e3a8-421a-a2c5-f43db7eb5cb0')): $__env->markAsRenderedOnce('cc944207-e3a8-421a-a2c5-f43db7eb5cb0');
 $__env->startPush('scripts'); ?>
     <script
         type="text/x-template"

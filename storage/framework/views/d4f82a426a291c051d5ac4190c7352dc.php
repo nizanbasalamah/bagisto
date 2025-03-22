@@ -23,7 +23,7 @@
 <?php endif; ?>
 </v-reporting-sales-tax-collected>
 
-<?php if (! $__env->hasRenderedOnce('11d79f4a-3612-4c76-ac83-74ad67505b76')): $__env->markAsRenderedOnce('11d79f4a-3612-4c76-ac83-74ad67505b76');
+<?php if (! $__env->hasRenderedOnce('7a0e98d6-1f3f-4e99-96d4-565a051a8cf3')): $__env->markAsRenderedOnce('7a0e98d6-1f3f-4e99-96d4-565a051a8cf3');
 $__env->startPush('scripts'); ?>
     <script
         type="text/x-template"

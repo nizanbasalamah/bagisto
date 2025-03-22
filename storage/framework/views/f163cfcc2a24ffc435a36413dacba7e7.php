@@ -32,7 +32,7 @@
 >
 </v-product-ratings>
 
-<?php if (! $__env->hasRenderedOnce('cccf51c7-c450-4595-9f8e-b863fc7a1992')): $__env->markAsRenderedOnce('cccf51c7-c450-4595-9f8e-b863fc7a1992');
+<?php if (! $__env->hasRenderedOnce('72919ef7-b13f-4c94-8b70-a15bd93325dd')): $__env->markAsRenderedOnce('72919ef7-b13f-4c94-8b70-a15bd93325dd');
 $__env->startPush("scripts"); ?>
     <script
         type="text/x-template"

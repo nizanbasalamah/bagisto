@@ -8,7 +8,7 @@
         $acceptedCurrency = core()->getConfigData('sales.payment_methods.paypal_smart_button.accepted_currencies');
     ?>
 
-    <?php if (! $__env->hasRenderedOnce('1c048015-9df4-48a0-a8f6-faac0660d7ed')): $__env->markAsRenderedOnce('1c048015-9df4-48a0-a8f6-faac0660d7ed');
+    <?php if (! $__env->hasRenderedOnce('b7784ca5-1f01-4956-bb6c-78e652f80a66')): $__env->markAsRenderedOnce('b7784ca5-1f01-4956-bb6c-78e652f80a66');
 $__env->startPush('scripts'); ?>
         <script
             src="https://www.paypal.com/sdk/js?client-id=<?php echo e($clientId); ?>&currency=<?php echo e($acceptedCurrency); ?>"

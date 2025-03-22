@@ -17,7 +17,7 @@
 
 </v-datagrid>
 
-<?php if (! $__env->hasRenderedOnce('f819f9f1-348a-4342-a06d-f80db7dcdb41')): $__env->markAsRenderedOnce('f819f9f1-348a-4342-a06d-f80db7dcdb41');
+<?php if (! $__env->hasRenderedOnce('1b26fa84-7edf-4866-9c52-71369a3c028d')): $__env->markAsRenderedOnce('1b26fa84-7edf-4866-9c52-71369a3c028d');
 $__env->startPush('scripts'); ?>
     <script
         type="text/x-template"

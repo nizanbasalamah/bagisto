@@ -18,7 +18,7 @@
     </div>
 </v-carousel>
 
-<?php if (! $__env->hasRenderedOnce('17197ed8-f3ab-4b8e-88bd-c12cea670a2b')): $__env->markAsRenderedOnce('17197ed8-f3ab-4b8e-88bd-c12cea670a2b');
+<?php if (! $__env->hasRenderedOnce('7d85d024-0abf-4673-8ce7-12279fe3adec')): $__env->markAsRenderedOnce('7d85d024-0abf-4673-8ce7-12279fe3adec');
 $__env->startPush('scripts'); ?>
     <script
         type="text/x-template"

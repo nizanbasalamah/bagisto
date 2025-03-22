@@ -59,7 +59,7 @@
     <?php echo view_render_event('bagisto.admin.settings.locales.create.after'); ?>
 
 
-    <?php if (! $__env->hasRenderedOnce('7a9bbc5a-df76-41a6-ad99-8d15a9780b75')): $__env->markAsRenderedOnce('7a9bbc5a-df76-41a6-ad99-8d15a9780b75');
+    <?php if (! $__env->hasRenderedOnce('e34eb8d8-e80b-4fdd-a260-80e8e55f1179')): $__env->markAsRenderedOnce('e34eb8d8-e80b-4fdd-a260-80e8e55f1179');
 $__env->startPush('scripts'); ?>
         <script
             type="text/x-template"

@@ -29,7 +29,7 @@
 >
 </v-quantity-changer>
 
-<?php if (! $__env->hasRenderedOnce('56d9b0a5-2ad1-4884-bb2e-aeebede51e37')): $__env->markAsRenderedOnce('56d9b0a5-2ad1-4884-bb2e-aeebede51e37');
+<?php if (! $__env->hasRenderedOnce('828bd126-e896-4cca-9d71-9cc30e4f83af')): $__env->markAsRenderedOnce('828bd126-e896-4cca-9d71-9cc30e4f83af');
 $__env->startPush('scripts'); ?>
     <script
         type="text/x-template"

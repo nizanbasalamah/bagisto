@@ -23,7 +23,7 @@
 <?php endif; ?>
 </v-reporting-sales-abandoned-carts>
 
-<?php if (! $__env->hasRenderedOnce('629d518d-267a-4968-9205-24cd71180398')): $__env->markAsRenderedOnce('629d518d-267a-4968-9205-24cd71180398');
+<?php if (! $__env->hasRenderedOnce('fe49a36d-2fea-4d19-8ee4-8a8063c1e596')): $__env->markAsRenderedOnce('fe49a36d-2fea-4d19-8ee4-8a8063c1e596');
 $__env->startPush('scripts'); ?>
     <script
         type="text/x-template"
